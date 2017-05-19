@@ -1,0 +1,10 @@
+
+
+				GUIT HUB
+
+
+Commit: enregistrer le taff perso. 
+
+Branche: quand plusieurs travaillent sur le même projet on fait des branches. 
+		Il y a une branche master(branche principale):
+	Il peut y avoir une version mobile et internet du projet: On crée une branche spéciale pour la version mobile.
